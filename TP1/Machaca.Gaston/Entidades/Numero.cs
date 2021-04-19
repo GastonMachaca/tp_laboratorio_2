@@ -67,37 +67,15 @@ namespace Entidades
         /// <returns>Binario a Decimal. Caso contrario devuelve "Valor invalido"</returns>
         public string BinaroDecimal(string binario)
         {
-            bool retorno;
-
-            retorno = EsBinario(binario); // Pregunto si el numero actual es un binario.
-
-            if (retorno)
+            if (binario != "" && binario[0] != '-' && EsBinario(binario))//Si el binario no esta vacio, no es negativo y es binario.
             {
-                char[] arrayBinario = binario.ToCharArray(); // Copia los caracteres de esta instancia en un array de caracteres Unicode.
 
-                Array.Reverse(arrayBinario); // Invierte la secuencia de los elementos en todo el array unidimensional.
+                return Convert.ToInt64(binario, 2).ToString(); //Convierto a Decimal.
 
-                double numero = 0;
-
-                for (int i = 0; i < arrayBinario.Length; i++) // Recorro el array hasta que encuentre un 1
-                {
-                    if (arrayBinario[i] == '1') 
-                    {
-                        if (i == 0)
-                        {
-                            numero += 1;  // Secuencia de suma de numero.
-                        }
-                        else
-                        {
-                            numero += (int)Math.Pow(2, i); // (2^n) elevado a la potencia de la posicion actual del array.
-                        }
-                    }
-                }
-                return numero.ToString(); // Convierto el numero de double a string.
             }
             else
             {
-                return "Valor invalido";
+                return "Valor invalido"; //En caso de no cumplir la condicion,devuelve "Valor invalido".
             }
         }
 
@@ -108,7 +86,7 @@ namespace Entidades
         /// <returns>Decimal a Binario. Caso contrario devuelve "Valor invalido"</returns>
         public string Decimalbinario(double numero)
         {
-            string binario = "";
+            string auxNum = "";
             string auxBinario = "";
 
             int num = (int)numero; // Se toma la parte entera del numero.
@@ -124,7 +102,7 @@ namespace Entidades
                     return auxBinario; //Procedo a retonar el mismo numero ya que 1 sigue siendo 1 en binario.
                 }
 
-                return binario = "Valor invalido"; // Caso contrario devuelvo mensaje de error.
+                return auxNum = "Valor invalido"; // Caso contrario devuelvo mensaje de error.
             }
             else
             {
@@ -132,19 +110,19 @@ namespace Entidades
                 {
                     if (num % 2 == 0) // Y el numero de resto 0
                     {
-                        binario = "0" + binario;  // Asigno 0 al string.
+                        auxNum = "0" + auxNum;  // Asigno 0 al string.
                     }
                     else
                     {
-                        binario = "1" + binario; // Asigno 1 al string.
+                        auxNum = "1" + auxNum; // Asigno 1 al string.
                     }
 
-                    num = num / 2;
+                    num /= 2;
                 }
 
-                binario = '0' + binario; // Pongo un 0 para completar el binario(Ej: 110 sera 0110).
+                auxNum = '0' + auxNum; // Pongo un 0 para completar el binario(Ej: 110 sera 0110).
 
-                return binario;
+                return auxNum;
             }
         }
 
