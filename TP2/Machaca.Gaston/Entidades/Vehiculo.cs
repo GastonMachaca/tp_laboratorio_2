@@ -11,38 +11,71 @@ namespace Entidades
     /// </summary>
     public abstract class Vehiculo
     {
-        public enum EMarca
-        {
-            Chevrolet, Ford, Renault, Toyota, BMW, Honda, HarleyDavidson
-        }
-        public enum ETamanio
-        {
-            Chico, Mediano, Grande
-        }
         EMarca marca;
         string chasis;
         ConsoleColor color;
 
-        /// <summary>
-        /// ReadOnly: Retornará el tamaño
-        /// </summary>
-        protected abstract ETamanio Tamanio { get ;}
-
-        /// <summary>
-        /// Publica todos los datos del Vehiculo.
-        /// </summary>
-        /// <returns></returns>
-        /// 
-        public virtual string Mostrar()
+        public enum EMarca
         {
-            return (string)this;
+            Chevrolet,
+            Ford,
+            Renault,
+            Toyota,
+            BMW,
+            Honda,
+            HarleyDavidson
         }
+        public enum ETamanio
+        {
+            Chico,
+            Mediano,
+            Grande
+        }
+
+        #region "Constructores"
+        /// <summary>
+        /// Se tomara el tipo de marca,el chasis y el color del vehiculo.
+        /// </summary>
+        /// <param name="chasis"></param>
+        /// <param name="marca"></param>
+        /// <param name="color"></param>
         public Vehiculo(string chasis, EMarca marca, ConsoleColor color)
         {
             this.chasis = chasis;
             this.marca = marca;
             this.color = color;
         }
+        #endregion
+
+
+        #region "Propiedades"
+        /// <summary>
+        /// ReadOnly: Retornará el tamaño
+        /// </summary>
+        protected abstract ETamanio Tamanio { get ;}
+
+        #endregion
+
+
+        #region "Sobrecargas"
+        /// <summary>
+        /// Publica todos los datos del Vehiculo.
+        /// </summary>
+        /// <returns>Lista de vehiculo</returns>
+        /// 
+        public virtual string Mostrar()
+        {
+            return (string)this;
+        }
+
+        #endregion
+
+
+        #region "Operadores"
+        /// <summary>
+        /// Se detallara su chasis,marca y color del vehiculo designado.
+        /// </summary>
+        /// <param name="p"></param>
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();
@@ -60,7 +93,7 @@ namespace Entidades
         /// </summary>
         /// <param name="v1"></param>
         /// <param name="v2"></param>
-        /// <returns></returns>
+        /// <returns>True si es el mismo vehiculo.Caso contrario sera false</returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
             bool retorno = false;
@@ -87,10 +120,12 @@ namespace Entidades
         /// </summary>
         /// <param name="v1"></param>
         /// <param name="v2"></param>
-        /// <returns></returns>
+        /// <returns>True si son distintos,Caso contrario false</returns>
         public static bool operator !=(Vehiculo v1, Vehiculo v2)
         {
             return !(v1 == v2);
         }
+
+        #endregion
     }
 }

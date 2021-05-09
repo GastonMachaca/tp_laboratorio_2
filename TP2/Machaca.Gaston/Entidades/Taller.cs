@@ -19,10 +19,17 @@ namespace Entidades
         }
 
         #region "Constructores"
+        /// <summary>
+        /// Se iniciaria un nueva lista de vehiculos.
+        /// </summary>
         private Taller()
         {
             this.vehiculos = new List<Vehiculo>();
         }
+        /// <summary>
+        /// Se iniciara el espacio del taller para vehiculos.
+        /// </summary>
+        /// <param name="espacioDisponible"></param>
         public Taller(int espacioDisponible) : this()
         {
             this.espacioDisponible = espacioDisponible;
@@ -33,7 +40,7 @@ namespace Entidades
         /// <summary>
         /// Muestro el estacionamiento y TODOS los vehículos
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Lista de los vehiculos de todo el taller</returns>
         public override string ToString()
         {
             return Listar(this, ETipo.Todos);
@@ -48,7 +55,7 @@ namespace Entidades
         /// </summary>
         /// <param name="taller">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
-        /// <returns></returns>
+        /// <returns>Lista por tipo de vehiculo y sus detalles</returns>
         public string Listar(Taller taller, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
@@ -91,10 +98,9 @@ namespace Entidades
         /// </summary>
         /// <param name="taller">Objeto donde se agregará el elemento</param>
         /// <param name="vehiculo">Objeto a agregar</param>
-        /// <returns></returns>
+        /// <returns>Si no se encuentra el vehiculo en el taller, un espacio (max: 6).Al pasar de la capacidad, no se deja entrar. </returns>
         public static Taller operator +(Taller taller, Vehiculo vehiculo)
         {
-
             int count = 0;
 
             foreach (Vehiculo v in taller.vehiculos)
@@ -118,7 +124,7 @@ namespace Entidades
         /// </summary>
         /// <param name="taller">Objeto donde se quitará el elemento</param>
         /// <param name="vehiculo">Objeto a quitar</param>
-        /// <returns></returns>
+        /// <returns>Remueve el vehiculo seleccionado del taller</returns>
         public static Taller operator -(Taller taller, Vehiculo vehiculo)
         {
             foreach (Vehiculo v in taller.vehiculos)

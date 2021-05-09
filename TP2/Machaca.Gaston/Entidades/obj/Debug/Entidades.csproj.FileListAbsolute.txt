@@ -4,3 +4,9 @@ C:\Users\Home PC\Documents\Machaca.Gaston\Entidades\obj\Debug\Entidades.csprojAs
 C:\Users\Home PC\Documents\Machaca.Gaston\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Home PC\Documents\Machaca.Gaston\Entidades\obj\Debug\Entidades.dll
 C:\Users\Home PC\Documents\Machaca.Gaston\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP2\Machaca.Gaston\Entidades\bin\Debug\Entidades.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP2\Machaca.Gaston\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP2\Machaca.Gaston\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP2\Machaca.Gaston\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP2\Machaca.Gaston\Entidades\obj\Debug\Entidades.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP2\Machaca.Gaston\Entidades\obj\Debug\Entidades.pdb
