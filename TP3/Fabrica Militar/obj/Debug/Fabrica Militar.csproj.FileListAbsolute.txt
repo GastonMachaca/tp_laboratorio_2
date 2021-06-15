@@ -1,0 +1,12 @@
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Fabrica Militar\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Fabrica Militar\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Fabrica Militar\obj\Debug\Fabrica Militar.csprojAssemblyReference.cache
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Fabrica Militar\obj\Debug\Fabrica Militar.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Fabrica Militar\obj\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Fabrica Militar\obj\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Fabrica Militar\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Fabrica Militar\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Fabrica Militar\obj\Debug\Fabrica Militar.csprojAssemblyReference.cache
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Fabrica Militar\obj\Debug\Fabrica Militar.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Fabrica Militar\obj\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Fabrica Militar\obj\Debug\Fabrica Militar.pdb

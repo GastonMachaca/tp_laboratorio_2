@@ -1,0 +1,20 @@
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\bin\Debug\Test.exe.config
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\bin\Debug\Test.exe
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\bin\Debug\Test.pdb
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\obj\Debug\Test.exe
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\obj\Debug\Test.pdb
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Test\bin\Debug\Test.exe.config
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Test\bin\Debug\Test.exe
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Test\bin\Debug\Test.pdb
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Test\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Test\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Test\obj\Debug\Test.exe
+C:\Users\Home PC\Documents\Trabajos Laboratorio 2\TPs\TP3\Test\obj\Debug\Test.pdb
