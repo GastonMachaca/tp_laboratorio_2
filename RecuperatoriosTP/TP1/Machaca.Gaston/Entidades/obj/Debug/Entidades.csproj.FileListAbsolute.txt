@@ -1,0 +1,18 @@
+C:\Users\Home PC\Documents\Machaca.Gaston\Entidades\bin\Debug\Entidades.dll
+C:\Users\Home PC\Documents\Machaca.Gaston\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Home PC\Documents\Machaca.Gaston\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Home PC\Documents\Machaca.Gaston\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Documents\Machaca.Gaston\Entidades\obj\Debug\Entidades.dll
+C:\Users\Home PC\Documents\Machaca.Gaston\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP1\Machaca.Gaston\Entidades\bin\Debug\Entidades.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP1\Machaca.Gaston\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP1\Machaca.Gaston\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP1\Machaca.Gaston\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP1\Machaca.Gaston\Entidades\obj\Debug\Entidades.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP1\Machaca.Gaston\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Desktop\Programacion 2 Cuatrimestre\tp_laboratorio_2-main\tp_laboratorio_2-main\TP1\Machaca.Gaston\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Programacion 2 Cuatrimestre\tp_laboratorio_2-main\tp_laboratorio_2-main\TP1\Machaca.Gaston\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Programacion 2 Cuatrimestre\tp_laboratorio_2-main\tp_laboratorio_2-main\TP1\Machaca.Gaston\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programacion 2 Cuatrimestre\tp_laboratorio_2-main\tp_laboratorio_2-main\TP1\Machaca.Gaston\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programacion 2 Cuatrimestre\tp_laboratorio_2-main\tp_laboratorio_2-main\TP1\Machaca.Gaston\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Desktop\Programacion 2 Cuatrimestre\tp_laboratorio_2-main\tp_laboratorio_2-main\TP1\Machaca.Gaston\Entidades\obj\Debug\Entidades.pdb
