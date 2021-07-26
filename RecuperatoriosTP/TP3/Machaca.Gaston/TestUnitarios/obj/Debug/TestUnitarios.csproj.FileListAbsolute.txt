@@ -1,0 +1,42 @@
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\TestUnitarios\obj\Debug\TestUnitarios.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\TestUnitarios\obj\Debug\TestUnitarios.pdb

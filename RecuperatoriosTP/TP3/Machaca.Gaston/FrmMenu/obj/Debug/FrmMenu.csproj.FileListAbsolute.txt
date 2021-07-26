@@ -1,0 +1,141 @@
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe.config
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Menu.resources
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Properties.Resources.resources
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.exe
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.ResolveComReference.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.ProduccionEnsamblado.resources
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\MetodosExtension.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\bin\Debug\MetodosExtension.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.CantidadMateriales.resources
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe.config
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\MetodosExtension.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\MetodosExtension.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.ResolveComReference.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.CantidadMateriales.resources
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Menu.resources
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.ProduccionEnsamblado.resources
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Properties.Resources.resources
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.exe
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe.config
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\MetodosExtension.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\MetodosExtension.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\Interop.WMPLib.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.AssemblyReference.cache
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\Interop.WMPLib.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.ResolveComReference.cache
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.CantidadMateriales.resources
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Menu.resources
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.ProduccionEnsamblado.resources
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Properties.Resources.resources
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.exe
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe.config
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\MetodosExtension.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\MetodosExtension.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csprojAssemblyReference.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.ResolveComReference.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.CantidadMateriales.resources
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Menu.resources
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.ProduccionEnsamblado.resources
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Properties.Resources.resources
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.exe
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe.config
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\MetodosExtension.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\MetodosExtension.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.ResolveComReference.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.CantidadMateriales.resources
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Menu.resources
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.ProduccionEnsamblado.resources
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Properties.Resources.resources
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.exe
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP4 Final\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe.config
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.exe
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\bin\Debug\FrmMenu.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.ResolveComReference.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Menu.resources
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.ProduccionEnsamblado.resources
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.Properties.Resources.resources
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.exe
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\FrmMenu\obj\Debug\FrmMenu.pdb

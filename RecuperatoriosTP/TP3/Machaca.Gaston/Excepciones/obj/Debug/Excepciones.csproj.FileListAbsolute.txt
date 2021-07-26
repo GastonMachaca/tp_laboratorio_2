@@ -1,0 +1,24 @@
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Excepciones\obj\Debug\Excepciones.pdb

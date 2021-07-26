@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tanque xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CantidadMotoresTigers>10</CantidadMotoresTigers>
+  <CantidadMotoresShermans>0</CantidadMotoresShermans>
+  <CantidadMotores_T34>0</CantidadMotores_T34>
+  <CantidadCañonesTigers>10</CantidadCañonesTigers>
+  <CantidadCañonesShermans>0</CantidadCañonesShermans>
+  <CantidadCañones_T34>0</CantidadCañones_T34>
+  <CantidadAmetralladorasTigers>10</CantidadAmetralladorasTigers>
+  <CantidadAmetralladorasShermans>0</CantidadAmetralladorasShermans>
+  <CantidadAmetralladoras_T34>0</CantidadAmetralladoras_T34>
+</Tanque>

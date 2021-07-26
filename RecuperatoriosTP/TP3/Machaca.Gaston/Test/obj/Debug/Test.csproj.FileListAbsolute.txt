@@ -1,0 +1,58 @@
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\bin\Debug\Test.exe.config
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\bin\Debug\Test.exe
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\bin\Debug\Test.pdb
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\obj\Debug\Test.exe
+C:\Users\Home PC\Documents\Machaca.Gaston.2A.TPFinal\Test\obj\Debug\Test.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Test\bin\Debug\Test.exe.config
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Test\bin\Debug\Test.exe
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Test\bin\Debug\Test.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Test\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Test\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Test\obj\Debug\Test.exe
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\Test\obj\Debug\Test.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\bin\Debug\Test.exe.config
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\bin\Debug\Test.exe
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\bin\Debug\Test.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\bin\Debug\Excepciones.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\bin\Debug\Fabrica Militar.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\bin\Debug\Excepciones.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\bin\Debug\Fabrica Militar.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\obj\Debug\Test.exe
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\Test\obj\Debug\Test.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\bin\Debug\Test.exe.config
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\bin\Debug\Test.exe
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\bin\Debug\Test.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\obj\Debug\Test.exe
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\obj\Debug\Test.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\bin\Debug\MetodosExtension.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\Test\bin\Debug\MetodosExtension.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\bin\Debug\Test.exe.config
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\bin\Debug\Test.exe
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\bin\Debug\Test.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\bin\Debug\Fabrica Militar.dll
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\bin\Debug\Fabrica Militar.pdb
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\obj\Debug\Test.exe
+C:\Users\Home PC\Desktop\TpPrueba\Nueva carpeta (2)\TPPrueba\TP3\Machaca.Gaston\Test\obj\Debug\Test.pdb
