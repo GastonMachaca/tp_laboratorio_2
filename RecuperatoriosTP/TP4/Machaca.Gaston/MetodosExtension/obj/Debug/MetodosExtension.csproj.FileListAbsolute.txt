@@ -1,0 +1,27 @@
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\MetodosExtension\bin\Debug\MetodosExtension.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\MetodosExtension\bin\Debug\MetodosExtension.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\MetodosExtension\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\MetodosExtension\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.csproj.CopyComplete
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.dll
+C:\Users\Home PC\Desktop\Repositorios Clonados\tp_laboratorio_2\TP3\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\MetodosExtension\bin\Debug\MetodosExtension.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\MetodosExtension\bin\Debug\MetodosExtension.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\MetodosExtension\bin\Debug\Excepciones.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\MetodosExtension\bin\Debug\Excepciones.pdb
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.csproj.AssemblyReference.cache
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.csproj.CopyComplete
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.dll
+C:\Users\fran_\OneDrive\Desktop\TP4\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\MetodosExtension\bin\Debug\MetodosExtension.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\MetodosExtension\bin\Debug\MetodosExtension.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\MetodosExtension\bin\Debug\Excepciones.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\MetodosExtension\bin\Debug\Excepciones.pdb
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.csprojAssemblyReference.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.csproj.CopyComplete
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.dll
+C:\Users\Home PC\Downloads\TP4 Final\Machaca.Gaston\MetodosExtension\obj\Debug\MetodosExtension.pdb

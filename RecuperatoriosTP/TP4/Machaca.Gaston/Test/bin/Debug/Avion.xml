@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Avion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CantidadMotoresBlackWindows>5</CantidadMotoresBlackWindows>
+  <CantidadMotoresIlyushins>0</CantidadMotoresIlyushins>
+  <CantidadMotoresHenschels>0</CantidadMotoresHenschels>
+  <CantidadCañonesBlackWindows>2</CantidadCañonesBlackWindows>
+  <CantidadCañonesIlyushins>0</CantidadCañonesIlyushins>
+  <CantidadCañonesHenschels>0</CantidadCañonesHenschels>
+  <CantidadAmetralladorasBlackWindows>10</CantidadAmetralladorasBlackWindows>
+  <CantidadAmetralladorasIlyushins>0</CantidadAmetralladorasIlyushins>
+  <CantidadAmetralladorasHenschels>0</CantidadAmetralladorasHenschels>
+</Avion>
