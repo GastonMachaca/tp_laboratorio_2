@@ -1,0 +1,83 @@
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.exe.config
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.exe
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.pdb
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmMenu.resources
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.Properties.Resources.resources
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.exe
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.pdb
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmLlamador.resources
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\bin\Debug\CentralitaHerencia.dll
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmMostrar.resources
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.CopyComplete
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\Machaca.Gaston\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.ResolveComReference.cache
+D:\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.exe.config
+D:\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.exe
+D:\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.pdb
+D:\CentralTelefonica\FrmMostrar\bin\Debug\CentralitaHerencia.dll
+D:\CentralTelefonica\FrmMostrar\bin\Debug\CentralitaHerencia.pdb
+D:\CentralTelefonica\FrmMostrar\bin\Debug\Interop.WMPLib.dll
+D:\CentralTelefonica\FrmMostrar\bin\Debug\AxInterop.WMPLib.dll
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csprojAssemblyReference.cache
+D:\CentralTelefonica\FrmMostrar\obj\Debug\Interop.WMPLib.dll
+D:\CentralTelefonica\FrmMostrar\obj\Debug\AxInterop.WMPLib.dll
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.ResolveComReference.cache
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmLlamador.resources
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmMenu.resources
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmMostrar.resources
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.Properties.Resources.resources
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.GenerateResource.cache
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.CoreCompileInputs.cache
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.CopyComplete
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.exe
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.pdb
+D:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.SeleccionLlamada.resources
+I:\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.exe.config
+I:\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.exe
+I:\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.pdb
+I:\CentralTelefonica\FrmMostrar\bin\Debug\CentralitaHerencia.dll
+I:\CentralTelefonica\FrmMostrar\bin\Debug\CentralitaHerencia.pdb
+I:\CentralTelefonica\FrmMostrar\bin\Debug\Interop.WMPLib.dll
+I:\CentralTelefonica\FrmMostrar\bin\Debug\AxInterop.WMPLib.dll
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csprojAssemblyReference.cache
+I:\CentralTelefonica\FrmMostrar\obj\Debug\Interop.WMPLib.dll
+I:\CentralTelefonica\FrmMostrar\obj\Debug\AxInterop.WMPLib.dll
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.ResolveComReference.cache
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmLlamador.resources
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmMenu.resources
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmMostrar.resources
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.Properties.Resources.resources
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.SeleccionLlamada.resources
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.GenerateResource.cache
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.CoreCompileInputs.cache
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.CopyComplete
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.exe
+I:\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.pdb
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.exe.config
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.exe
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\bin\Debug\FrmMostrar.pdb
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\bin\Debug\CentralitaHerencia.dll
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\bin\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\Interop.WMPLib.dll
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.ResolveComReference.cache
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmLlamador.resources
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmMenu.resources
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.FrmMostrar.resources
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.Properties.Resources.resources
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.SeleccionLlamada.resources
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.GenerateResource.cache
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FormCentralita.csproj.CopyComplete
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.exe
+C:\Users\Home PC\Desktop\CentralTelefonica\FrmMostrar\obj\Debug\FrmMostrar.pdb

@@ -1,0 +1,10 @@
+D:\CentralTelefonica\Test\bin\Debug\Test.exe.config
+D:\CentralTelefonica\Test\bin\Debug\Test.exe
+D:\CentralTelefonica\Test\bin\Debug\Test.pdb
+D:\CentralTelefonica\Test\bin\Debug\TelefoniaCelular.dll
+D:\CentralTelefonica\Test\bin\Debug\TelefoniaCelular.pdb
+D:\CentralTelefonica\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\CentralTelefonica\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\CentralTelefonica\Test\obj\Debug\Test.csproj.CopyComplete
+D:\CentralTelefonica\Test\obj\Debug\Test.exe
+D:\CentralTelefonica\Test\obj\Debug\Test.pdb

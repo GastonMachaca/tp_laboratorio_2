@@ -1,0 +1,12 @@
+C:\Users\Home PC\Desktop\CentralTelefonica\TelefoniaCelular\bin\Debug\TelefoniaCelular.dll
+C:\Users\Home PC\Desktop\CentralTelefonica\TelefoniaCelular\bin\Debug\TelefoniaCelular.pdb
+C:\Users\Home PC\Desktop\CentralTelefonica\TelefoniaCelular\obj\Debug\TelefoniaCelular.csprojAssemblyReference.cache
+C:\Users\Home PC\Desktop\CentralTelefonica\TelefoniaCelular\obj\Debug\TelefoniaCelular.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\CentralTelefonica\TelefoniaCelular\obj\Debug\TelefoniaCelular.dll
+C:\Users\Home PC\Desktop\CentralTelefonica\TelefoniaCelular\obj\Debug\TelefoniaCelular.pdb
+D:\CentralTelefonica\TelefoniaCelular\bin\Debug\TelefoniaCelular.dll
+D:\CentralTelefonica\TelefoniaCelular\bin\Debug\TelefoniaCelular.pdb
+D:\CentralTelefonica\TelefoniaCelular\obj\Debug\TelefoniaCelular.csprojAssemblyReference.cache
+D:\CentralTelefonica\TelefoniaCelular\obj\Debug\TelefoniaCelular.csproj.CoreCompileInputs.cache
+D:\CentralTelefonica\TelefoniaCelular\obj\Debug\TelefoniaCelular.dll
+D:\CentralTelefonica\TelefoniaCelular\obj\Debug\TelefoniaCelular.pdb
